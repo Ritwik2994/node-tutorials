@@ -1,9 +1,8 @@
 {
   "name": "node-tutorials",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"

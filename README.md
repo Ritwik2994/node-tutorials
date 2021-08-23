@@ -31,4 +31,4 @@ we will start from beginning where we create a basic server and as chapters move
 
 - Chapter 1 => creating basic server
 
-  
+- Chapter 2 => creating Model and Controllers for the app. Also creating Routes for the app
